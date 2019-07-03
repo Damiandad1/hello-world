@@ -1,2 +1,3 @@
 # hello-world
-Beggining
+I am Damian Polichowski and i am starting with programming! 
+Good luck!
